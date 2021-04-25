@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Country</string>
+    <string name="okay_text">Okay</string>
+    <string name="retry_text">Retry</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="activity_country_list_title">Country list</string>
+    <string name="internet_error">Please check internet connection</string>
+    <string name="country_province_empty_list">Province details not found for selected country</string>
+    <string name="country_empty_list">Data not found, Please try again</string>
+</resources>
